@@ -8,7 +8,7 @@ AI & Machine Learning Undergraduate | Building Intelligent AI Solutions
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (CGPA: **9.48/10**)
+🎓 B.Tech in Artificial Intelligence & Machine Learning 
 
 🔬 Interested in Machine Learning, Deep Learning, Computer Vision, NLP, Large Language Models (LLMs), and Data Science.
 
